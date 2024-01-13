@@ -1,4 +1,4 @@
-Console-Based Scientific Calculator in C
+Console-Based Scientific Calculator in C For PF Assignment 3 By Ali Haider 25428
 This is a console-based scientific calculator written in C. It provides a variety of mathematical and scientific operations for basic arithmetic, trigonometry, algebra, logarithms, and statistics. The program also supports complex number operations.
 
 Usage
@@ -28,7 +28,7 @@ Select an operation:
 1. Basic Operations
 2. Additional Operations
 3. Complex Number Operations
-0. Exit
+ETC
 
 Enter your choice:
 Enter your choice by typing the corresponding number and pressing Enter.
